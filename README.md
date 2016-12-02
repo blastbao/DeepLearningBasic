@@ -1,4 +1,4 @@
-# DeepLearningBasics
+# Deep Learning Basics
 This is a DeepLearning basic tutorial. It's very suitable for beginners.<br />
 
 [perceptron.py] (https://github.com/cxlsky/DeepLearningBasic/blob/master/perceptron.py) <br />
